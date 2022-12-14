@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Budget_Calculator/static/css/main.28c6b7a1.css",
+    "main.js": "/React_Budget_Calculator/static/js/main.79c2950d.js",
+    "static/js/787.033a265c.chunk.js": "/React_Budget_Calculator/static/js/787.033a265c.chunk.js",
+    "index.html": "/React_Budget_Calculator/index.html",
+    "main.28c6b7a1.css.map": "/React_Budget_Calculator/static/css/main.28c6b7a1.css.map",
+    "main.79c2950d.js.map": "/React_Budget_Calculator/static/js/main.79c2950d.js.map",
+    "787.033a265c.chunk.js.map": "/React_Budget_Calculator/static/js/787.033a265c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c6b7a1.css",
+    "static/js/main.79c2950d.js"
+  ]
+}
